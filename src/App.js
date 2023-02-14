@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Here is my new cta label
+          Go to docs here
         </a>
       </header>
     </div>
